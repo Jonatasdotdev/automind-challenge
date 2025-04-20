@@ -23,6 +23,9 @@ Todos os dados são armazenados em **memória** durante a execução da aplicaç
 1. Clone o repositório:
 
 git clone https://github.com/seu-usuario/seu-repo.git
+
 cd CadastroUsuariosApp
+
 Execute o projeto com o comando:
+
 dotnet run
