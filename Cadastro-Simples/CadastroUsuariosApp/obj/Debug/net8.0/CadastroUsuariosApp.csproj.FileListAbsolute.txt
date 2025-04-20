@@ -1,0 +1,14 @@
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\bin\Debug\net8.0\CadastroUsuariosApp.exe
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\bin\Debug\net8.0\CadastroUsuariosApp.deps.json
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\bin\Debug\net8.0\CadastroUsuariosApp.runtimeconfig.json
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\bin\Debug\net8.0\CadastroUsuariosApp.dll
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\bin\Debug\net8.0\CadastroUsuariosApp.pdb
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\CadastroUsuariosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\CadastroUsuariosApp.AssemblyInfoInputs.cache
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\CadastroUsuariosApp.AssemblyInfo.cs
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\CadastroUsuariosApp.csproj.CoreCompileInputs.cache
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\CadastroUsuariosApp.dll
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\refint\CadastroUsuariosApp.dll
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\CadastroUsuariosApp.pdb
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\CadastroUsuariosApp.genruntimeconfig.cache
+C:\Users\winte\OneDrive\Documentos\Cadastro-Simples\CadastroUsuariosApp\obj\Debug\net8.0\ref\CadastroUsuariosApp.dll
